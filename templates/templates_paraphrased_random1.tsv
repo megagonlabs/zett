@@ -1,0 +1,130 @@
+P1001	applies to jurisdiction	[X] is a legal concept in [Y] .	the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)	paraphrase
+P101	field of work	[X] operates in the field of [Y] .	specialization of a person or organization	paraphrase
+P102	member of political party	[X] is a member of the party [Y] .	the political party of which a person is or has been a member or otherwise affiliated	paraphrase
+P105	taxon rank	[X] is a taxon of [Y] .	level in a taxonomic hierarchy	paraphrase
+P106	occupation	[X] is [Y] .	occupation of a person	paraphrase
+P118	league	[Y] is a covenant of [X] .	league in which team or player plays or has played in	paraphrase
+P123	publisher	[X] shall be published by [Y].	organization or person responsible for publishing books, periodicals, printed music, podcasts, games or software	paraphrase
+P127	owned by	[X] is in possession of [Y] .	owner of the subject	paraphrase
+P131	located in the administrative territorial entity	[X] is located in the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government of the County Government [Y] .	the item is located on the territory of the following administrative entity.	paraphrase
+P1344	participant in	[X] is a participant in the [Y] .	event in which a person or organization was/is a participant	paraphrase
+P1346	winner	[Y] is one of the winners of [X] .	winner of a competition or similar event, not to be used for awards	paraphrase
+P135	movement	[X] is part of the movement [Y] .	literary, artistic, scientific or philosophical movement or scene associated with this person or work	paraphrase
+P136	genre	[Y] is an genre of [X] .	creative work's genre or an artist's field of work	paraphrase
+P137	operator	[Y] is a operator of [X] .	person, profession, or organization that operates the equipment, facility, or service	paraphrase
+P140	religion	[X] is [Y].	religion of a person, organization or religious building, or associated with this subject	paraphrase
+P1408	licensed to broadcast to	[X] shall be transferred to [Y].	place that a radio/TV station is licensed/required to broadcast to	paraphrase
+P1411	nominated for	[X] was nominated for [Y] .	award nomination received by a person, organisation or creative work	paraphrase
+P1435	heritage designation	[X] is designated by [Y] as an heir.	heritage designation of a cultural or natural site	paraphrase
+P150	contains administrative territorial entity	[X] contains the administrative territorial unit [Y] .	direct subdivisions of an administrative territorial entity	paraphrase
+P155	follows	[X] shall follow [Y] .	immediately prior item in a series of which the subject is a part	paraphrase
+P156	followed by	[X] shall be followed by [Y] .	immediately following item in a series of which the subject is a part	paraphrase
+P159	headquarters location	[X] is based in [Y] .	city, where an organization's headquarters is or has been situated	paraphrase
+P175	performer	[Y] is a performer by [X] .	actor, musician, band or other performer associated with this role or musical work	paraphrase
+P176	manufacturer	[X] is made by [Y].	manufacturer or producer of this product	paraphrase
+P178	developer	[X] was developed by [Y].	organization or person that developed the item	paraphrase
+P1877	after a work by	[X] after a work of [Y] .	artist whose work strongly inspired/ was copied in this item	paraphrase
+P1923	participating team	[Y] is a participating team at [X] .	like Participant but for teams	paraphrase
+P206	located in or next to body of water	[X] is located in or next to the body of the water [Y] .	body of water on or next to which a place is located	paraphrase
+P2094	competition class	[X] is in a competitive class [Y] .	official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion	paraphrase
+P22	father	[Y] is a father to [X] .	male parent of the subject	paraphrase
+P241	military branch	[X] is a military division of [Y] .	branch to which this military unit, award, office, or person belongs	paraphrase
+P25	mother	[Y] is mother of [X] .	female parent of the subject	paraphrase
+P26	spouse	[X] is a woman of [Y] .	the subject has the object as their spouse	paraphrase
+P264	record label	[X] will be represented by the record label [Y].	brand and trademark associated with the marketing of subject music recordings and music videos	paraphrase
+P27	country of citizenship	[X] is the citizen of [Y] .	the object is a country that recognizes the subject as its citizen	paraphrase
+P276	location	[X] is situated in [Y] .	location of the object, structure or event.	paraphrase
+P306	operating system	[X] The operating system is [Y] .	operating system (OS) on which a software works or the OS installed on hardware	paraphrase
+P3373	sibling	[X] is a sister of [Y] .	the subject and the object have the same parents (brother, sister, etc.)	paraphrase
+P3450	sports season of league or competition	[X] is a sports season of the league or competition of the [Y] .	property that shows the competition of which the item is a season	paraphrase
+P355	subsidiary	[Y] shall be a subsidiary of [X] .	subsidiary of a company or organization	paraphrase
+P361	part of	[X] is part of the [Y] .	object of which the subject is a part	paraphrase
+P364	original language of film or TV show	[X] is the initial language of [Y].	language in which a film or a performance work was originally created	paraphrase
+P39	position held	[X] maintains a position [Y] .	subject currently or formerly holds the object position or public office	paraphrase
+P40	child	[Y] is a child of the [X] .	subject has object as child	paraphrase
+P400	platform	[Y] is the platform of [X].	platform for which a work was developed or released, or the specific platform version of a software product	paraphrase
+P403	mouth of the watercourse	[Y] is a estuary of the watercourse of [X] .	the body of water to which the watercourse drains	paraphrase
+P407	language of work or name	[X] has been written in [Y] .	language associated with this creative work (such as books, shows, songs, broadcasts or websites) or a name	paraphrase
+P410	military rank	[X] Military rank is [Y] .	military rank achieved by a person, or military rank associated with a position	paraphrase
+P412	voice type	[X]'s language type is [Y] .	person's voice type. expected values: soprano, mezzo-soprano, contralto, countertenor, tenor, baritone, bass (and derivatives)	paraphrase
+P413	position played on team / speciality	[X] is the position [Y] .	position or specialism of a player on a team	paraphrase
+P449	original broadcaster	[Y] is the original station of [X] .	network or service that originally broadcast a radio or television program	paraphrase
+P4552	mountain range	[Y] is a mountain range of [X] .	range or subrange to which the geographical item belongs	paraphrase
+P460	said to be the same as	[X] should be the same as [Y] .	this item is said to be the same as that item	paraphrase
+P463	member of	[X] is member of [Y] .	organization, club or musical group to which the subject belongs.	paraphrase
+P466	occupant	[Y] is an inhabitant of [X] .	person or organization occupying property	paraphrase
+P495	country of origin	[X] was founded in the country [Y].	country of origin of this item (creative work, food, phrase, product, etc.)	paraphrase
+P527	has part	[X] has a part of [Y] .	part of this subject	paraphrase
+P551	residence	[X] resides in [Y] .	the place where the person is or has been, resident	paraphrase
+P57	director	[Y] is Director of [X] .	director(s) of film, TV-series, stageplay, video game or similar	paraphrase
+P58	screenwriter	[Y] writes the script for [X] .	person(s) who wrote the script for subject item	paraphrase
+P59	constellation	[X] is situated in the constellation [Y] .	the area of the celestial sphere of which the subject is a part	paraphrase
+P6	head of government	[Y] is the head of government of [X] .	head of the executive power of this town, city, municipality, state, country, or other governmental body	paraphrase
+P641	sport	[X] is a sport [Y] .	sport that the subject participates or participated in or is associated with	paraphrase
+P674	characters	[Y] is a sign of [X] .	characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)	paraphrase
+P706	located on terrain feature	[X] is located on terrain function [Y] .	located on the specified (geo)physical feature.	paraphrase
+P710	participant	[Y] is a participant in the [X] .	person, group of people or organization (object) that actively takes/took part in an event or process (subject)	paraphrase
+P740	location of formation	[X] was set up in [Y].	location where a group or organization was formed	paraphrase
+P750	distributed by	[X] will be distributed by [Y].	distributor of a creative work; distributor for a record label; news agency; film distributor	paraphrase
+P800	notable work	[Y] is a remarkable work by [X] .	notable scientific, artistic or literary work, or other work of significance among subject's works	paraphrase
+P84	architect	[Y] is an architect by [X] .	person or architectural firm responsible for designing this building	paraphrase
+P86	composer	[Y] is a composer by [X] .	person(s) who wrote the music	paraphrase
+P921	main subject	[Y] is the main topic of [X].	primary topic of a work	paraphrase
+P931	place served by transport hub	[Y] is a place served by the transport hub [X] .	territorial entity or entities served by this transport hub (airport, train station, etc.)	paraphrase
+P937	work location	[X] has worked in [Y] .	location where persons or organisations were actively participating in employment, business or other work	paraphrase
+P974	tributary	[Y] is a tributary of the [X] .	watercourse that flows into an other one	paraphrase
+P991	successful candidate	[Y] is a successful candidate from [X] .	person(s) elected after the election	paraphrase
+P17	country	[Y] is the country of [X] .	sovereign state of this item (not to be used for human beings)	paraphrase
+P31	instance of	[X] is a [Y] .----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	that class of which this subject is a particular example and member	paraphrase
+P571	inception	[Y] is written in [X].	time when an entity begins to exist	paraphrase
+P279	subclass of	[X] is a subcategory of [Y] .	this item is a subclass (subset) of that item	paraphrase
+P36	capital	[Y] is the capital of [X] .	seat of government of a country, province, state or other type of administrative territorial entity	paraphrase
+P360	is a list of	[X] is a list with [Y] .	common element between all listed items	paraphrase
+P20	place of death	[X] passed away in [Y] .	most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character	paraphrase
+P19	place of birth	[X] was born into [Y].	most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character	paraphrase
+P30	continent	[Y] is the continent of the [X] .	continent of which the subject is a part	paraphrase
+P69	educated at	[X] studied under [Y] .	educational institution attended by subject	paraphrase
+P50	author	[X] written by [Y] .	main creator(s) of a written work (use on works, not humans)	paraphrase
+P607	conflict	[X] participates in the battle [Y] .	battles, wars or other military engagements in which the person or item participated	paraphrase
+P37	official language	[Y] is an official language of the [X] .	language designated as official by this item	paraphrase
+P1269	facet of	[X] is a face of [Y] .	topic of which this item is an aspect, item that offers a broader perspective on the same topic	paraphrase
+P166	award received	[X] has received an award [Y] .	award or recognition received by a person, organization or creative work	paraphrase
+P569	date of birth	[Y] was born into [X].	date on which the subject was born	paraphrase
+P737	influenced by	[X] is impacted by [Y] .	this person, idea, etc. is informed by that other person, idea, etc.	paraphrase
+P108	employer	[X] has worked for [Y] .	person or organization for which the subject works or worked	paraphrase
+P570	date of death	[Y] died at [X].	date on which the subject died	paraphrase
+P530	diplomatic relation	[X] and [Y] shall have diplomatic relations.	diplomatic relations of the country	paraphrase
+P802	student	[Y] is a [X] student.	notable student(s) of the subject individual	paraphrase
+P112	founded by	[X] is created by [Y].	founder or co-founder of this organization, religion or place	paraphrase
+P425	field of this occupation	[Y] is an area of [X].	field corresponding to this occupation or profession	paraphrase
+P170	creator	[X] is produced by [Y].	maker of this creative work or other object	paraphrase
+P452	industry	[X] is located in the [Y] industry.	specific industry of company or organization	paraphrase
+P53	family	[X] is the family of [Y] .	family, including dynasty and nobility houses	paraphrase
+P138	named after	[X] is named for [Y].	entity or event that inspired the subject's name, or namesake	paraphrase
+P735	given name	[Y] is a given name of [X] .	first name or another given name of this person	paraphrase
+P162	producer	[X] is made by [Y].	person(s) who produced the film, musical work, theatrical production, etc.	paraphrase
+P577	publication date	[Y] is published in [X] for the first time.	date or point in time when a work was first published or released	paraphrase
+P840	narrative location	[X] will take place in [Y].	the narrative of the work is set in this location	paraphrase
+P272	production company	[X] is produced by the studio [Y].	company that produced this film, audio or performing arts work	paraphrase
+P1412	languages spoken, written or signed	[X] used language [Y] .	language(s) that a person or a people speaks, writes or signs, including the native language(s)	paraphrase
+P734	family name	[X]'s surname is [Y] .	part of full name of person	paraphrase
+P2389	organization directed by the office or position	[X] is a header of [Y] .	organization which is directed by this office	paraphrase
+P81	connecting line	[X] is connected with [Y].	railway line(s) subject is directly connected to	paraphrase
+P54	member of sports team	[X] is member of the [Y] team.	sports teams or clubs that the subject represents or represented	paraphrase
+P179	part of the series	[X] is part of the series [Y] .	series which contains the subject	paraphrase
+P397	parent astronomical body	[X] is the orbit of [Y] .	major astronomical body the item belongs to	paraphrase
+P676	lyrics by	[Y] wrote the text by [X] .	author of song lyrics	paraphrase
+P1889	different from	[X] is different than [Y] .	item that is different from another item, with which it may be confused	paraphrase
+P2416	sports discipline competed in	[X] participated in a [Y] sport.	discipline an athlete competed in within a sport	paraphrase
+P647	drafted by	[X] is designed by [Y].	which team the player was drafted by	paraphrase
+P144	based on	[X] based on [Y] .	the work(s) used as the basis for subject item	paraphrase
+P461	opposite of	[X] is against [Y] .	item that is the opposite of this item	paraphrase
+P1589	lowest point	[X] is the lowest point of the [Y] .	point with lowest elevation in the country, region, city or area	paraphrase
+P1552	has quality	[X] has characteristic characteristics [Y] .	the entity has an inherent or distinguishing non-material characteristic	paraphrase
+P366	use	[X] will be used in [Y].	main use of the subject (includes current and former usage)	paraphrase
+P1080	from narrative universe	[X] is represented in the universe [Y].	subject's fictional entity is in the object narrative	paraphrase
+P186	made from material	[X] is made out of [Y].	material the subject or the object is made of or derived from	paraphrase
+P47	shares border with	[Y] divides the border with [X] .	countries or administrative subdivisions, of equal level, that this item borders, either by land or water	paraphrase
+P190	twinned administrative body	[X] and [Y] are partner cities.	twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments	paraphrase
+P161	cast member	[Y] is an actor at [X] .	actor in the subject production	paraphrase
+P376	located on astronomical body	[X] is located on the planet [Y] .	astronomical body on which features or places are situated	paraphrase

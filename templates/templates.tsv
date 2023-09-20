@@ -1,0 +1,135 @@
+P1001	applies to jurisdiction	[X] is a legal term in [Y] .	the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)
+P101	field of work	[X] works in the field of [Y] .	specialization of a person or organization
+P102	member of political party	[X] is a member of political party [Y] .	the political party of which a person is or has been a member or otherwise affiliated
+P105	taxon rank	[X] is a taxon rank of [Y] .	level in a taxonomic hierarchy
+P106	occupation	[X]'s job is [Y] .	occupation of a person
+P118	league	[Y] is a league of [X] .	league in which team or player plays or has played in
+P123	publisher	[X] is published by [Y] .	organization or person responsible for publishing books, periodicals, printed music, podcasts, games or software
+P127	owned by	[X] is owned by [Y] .	owner of the subject
+P1303	instrument	[X] plays [Y] .	musical instrument that a person plays or teaches or used in a music occupation
+P131	located in the administrative territorial entity	[X] is located in the administrative territorial entity of [Y] .	the item is located on the territory of the following administrative entity.
+P1344	participant in	[X] is a participant in [Y] .	event in which a person or organization was/is a participant
+P1346	winner	[Y] is a winner of [X] .	winner of a competition or similar event, not to be used for awards
+P135	movement	[X] is part of movement [Y] .	literary, artistic, scientific or philosophical movement or scene associated with this person or work
+P136	genre	[Y] is a genre of [X] .	creative work's genre or an artist's field of work
+P137	operator	[Y] is an operator of [X] .	person, profession, or organization that operates the equipment, facility, or service
+P140	religion	[X]'s religion is [Y].	religion of a person, organization or religious building, or associated with this subject
+P1408	licensed to broadcast to	[X] is lisensed to broadcast to [Y] .	place that a radio/TV station is licensed/required to broadcast to
+P1411	nominated for	[X] is nominated for [Y] .	award nomination received by a person, organisation or creative work
+P1435	heritage designation	[X] is designated as heritage by [Y] .	heritage designation of a cultural or natural site
+P150	contains administrative territorial entity	[X] contains administrative territorial entity [Y] .	direct subdivisions of an administrative territorial entity
+P155	follows	[X] follows [Y] .	immediately prior item in a series of which the subject is a part
+P156	followed by	[X] is followed by [Y] .	immediately following item in a series of which the subject is a part
+P159	headquarters location	[X] is headquartered in [Y] .	city, where an organization's headquarters is or has been situated
+P175	performer	[Y] is a performer of [X] .	actor, musician, band or other performer associated with this role or musical work
+P176	manufacturer	[X] is manufactured by [Y] .	manufacturer or producer of this product
+P177	crosses	[X] crosses [Y] .	obstacle (body of water, road, railway...) which this bridge crosses over or this tunnel goes under
+P178	developer	[X] is developed by [Y] .	organization or person that developed the item
+P1877	after a work by	[X] after a work by [Y] .	artist whose work strongly inspired/ was copied in this item
+P1923	participating team	[Y] is a participating team in [X] .	like Participant but for teams
+P206	located in or next to body of water	[X] is located in or next to body of water [Y] .	body of water on or next to which a place is located
+P2094	competition class	[X] is in the competition class [Y] .	official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion
+P22	father	[Y] is a father of [X] .	male parent of the subject
+P241	military branch	[X] is a military branch of [Y] .	branch to which this military unit, award, office, or person belongs
+P25	mother	[Y] is a mother of [X] .	female parent of the subject
+P26	spouse	[X] is a spouse of [Y] .	the subject has the object as their spouse
+P264	record label	[X] is represented by the record label [Y] .	brand and trademark associated with the marketing of subject music recordings and music videos
+P27	country of citizenship	[X] is citizen of [Y] .	the object is a country that recognizes the subject as its citizen
+P276	location	[X] is located in [Y] .	location of the object, structure or event.
+P306	operating system	[X]'s operating system is [Y] .	operating system (OS) on which a software works or the OS installed on hardware
+P3373	sibling	[X] is a sibling of [Y] .	the subject and the object have the same parents (brother, sister, etc.)
+P3450	sports season of league or competition	[X] is a sports season of league or competition of [Y] .	property that shows the competition of which the item is a season
+P355	subsidiary	[Y] is a subsidiary of [X] .	subsidiary of a company or organization
+P361	part of	[X] is part of [Y] .	object of which the subject is a part
+P364	original language of film or TV show	[X] is the original language of [Y].	language in which a film or a performance work was originally created
+P39	position held	[X] holds a position [Y] .	subject currently or formerly holds the object position or public office
+P40	child	[Y] is a child of [X] .	subject has object as child
+P400	platform	[Y] is a platform of [X] .	platform for which a work was developed or released, or the specific platform version of a software product
+P403	mouth of the watercourse	[Y] is a mouth of the watercourse of [X] .	the body of water to which the watercourse drains
+P407	language of work or name	[X] is written in [Y] .	language associated with this creative work (such as books, shows, songs, broadcasts or websites) or a name
+P410	military rank	[X]'s military rank is [Y] .	military rank achieved by a person, or military rank associated with a position
+P412	voice type	[X]'s voice type is [Y] .	person's voice type. expected values: soprano, mezzo-soprano, contralto, countertenor, tenor, baritone, bass (and derivatives)
+P413	position played on team / speciality	[X] plays the position [Y] .	position or specialism of a player on a team
+P449	original broadcaster	[Y] is the original broadcaster of [X] .	network or service that originally broadcast a radio or television program
+P4552	mountain range	[Y] is a moutain range of [X] .	range or subrange to which the geographical item belongs
+P460	said to be the same as	[X] is said to be the same as [Y] .	this item is said to be the same as that item
+P463	member of	[X] is a member of [Y] .	organization, club or musical group to which the subject belongs.
+P466	occupant	[Y] is an occupant of [X] .	person or organization occupying property
+P495	country of origin	[X] was created in the country [Y] .	country of origin of this item (creative work, food, phrase, product, etc.)
+P527	has part	[X] has part of [Y] .	part of this subject
+P551	residence	[X] lives in [Y] .	the place where the person is or has been, resident
+P57	director	[Y] is a director of [X] .	director(s) of film, TV-series, stageplay, video game or similar
+P58	screenwriter	[Y] wrote the script for [X] .	person(s) who wrote the script for subject item
+P59	constellation	[X] is in the constellation [Y] .	the area of the celestial sphere of which the subject is a part
+P6	head of government	[Y] is the head of goverment of [X] .	head of the executive power of this town, city, municipality, state, country, or other governmental body
+P641	sport	[X] plays a sport [Y] .	sport that the subject participates or participated in or is associated with
+P674	characters	[Y] is a character of [X] .	characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)
+P706	located on terrain feature	[X] is located on terrain feature [Y] .	located on the specified (geo)physical feature.
+P710	participant	[Y] is a participant in [X] .	person, group of people or organization (object) that actively takes/took part in an event or process (subject)
+P740	location of formation	[X] was established in [Y] .	location where a group or organization was formed
+P750	distributed by	[X] is distributed by [Y] .	distributor of a creative work; distributor for a record label; news agency; film distributor
+P800	notable work	[Y] is notable work of [X] .	notable scientific, artistic or literary work, or other work of significance among subject's works
+P84	architect	[Y] is an architect of [X] .	person or architectural firm responsible for designing this building
+P86	composer	[Y] is a composer of [X] .	person(s) who wrote the music
+P921	main subject	[Y] is the main subject of [X].	primary topic of a work
+P931	place served by transport hub	[Y] is a place served by transport hub [X] .	territorial entity or entities served by this transport hub (airport, train station, etc.)
+P937	work location	[X] worked in [Y] .	location where persons or organisations were actively participating in employment, business or other work
+P974	tributary	[Y] is a tributary of [X] .	watercourse that flows into an other one
+P991	successful candidate	[Y] is a successful candidate of [X] .	person(s) elected after the election
+P17	country	[Y] is a country of [X] .	sovereign state of this item (not to be used for human beings)
+P31	instance of	[X] is a [Y] .	that class of which this subject is a particular example and member
+P571	inception	[Y] is created in [X] .	time when an entity begins to exist
+P279	subclass of	[X] is a subclass of [Y] .	this item is a subclass (subset) of that item
+P36	capital	[Y] is a capital of [X] .	seat of government of a country, province, state or other type of administrative territorial entity
+P360	is a list of	[X] is a list of [Y] .	common element between all listed items
+P20	place of death	[X] died in [Y] .	most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character
+P19	place of birth	[X] was born in [Y] .	most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character
+P30	continent	[Y] is the continent of [X] .	continent of which the subject is a part
+P69	educated at	[X] studied at [Y] .	educational institution attended by subject
+P50	author	[X] is written by [Y] .	main creator(s) of a written work (use on works, not humans)
+P607	conflict	[X] is participated in the battle [Y] .	battles, wars or other military engagements in which the person or item participated
+P37	official language	[Y] is an official language in [X] .	language designated as official by this item
+P1269	facet of	[X] is one facet of [Y] .	topic of which this item is an aspect, item that offers a broader perspective on the same topic
+P166	award received	[X] received an award [Y] .	award or recognition received by a person, organization or creative work
+P569	date of birth	[Y] was born in [X] .	date on which the subject was born
+P737	influenced by	[X] is influenced by [Y] .	this person, idea, etc. is informed by that other person, idea, etc.
+P108	employer	[X] worked for [Y] .	person or organization for which the subject works or worked
+P570	date of death	[Y] died in [X]	date on which the subject died
+P530	diplomatic relation	[X] and [Y] have diplomatic relations .	diplomatic relations of the country
+P802	student	[Y] is a student of [X] .	notable student(s) of the subject individual
+P112	founded by	[X] is founded by [Y] .	founder or co-founder of this organization, religion or place
+P425	field of this occupation	[Y] is a field of [X] .	field corresponding to this occupation or profession
+P170	creator	[X] is created by [Y] .	maker of this creative work or other object
+P1056	product or material produced	[X] products [Y] .	material or product produced by a government agency, business, industry, facility, or process
+P452	industry	[X] is in the [Y] industry .	specific industry of company or organization
+P53	family	[X] is a family of [Y] .	family, including dynasty and nobility houses
+P121	item operated	[X] operates [Y] .	equipment, installation or service operated by the subject
+P138	named after	[X] is named after [Y] .	entity or event that inspired the subject's name, or namesake
+P735	given name	[Y] is first name of [X] .	first name or another given name of this person
+P162	producer	[X] is produced by [Y] .	person(s) who produced the film, musical work, theatrical production, etc.
+P577	publication date	[Y] is first published in [X] .	date or point in time when a work was first published or released
+P840	narrative location	[X] takes place in [Y] .	the narrative of the work is set in this location
+P272	production company	[X] is produced by studio [Y] .	company that produced this film, audio or performing arts work
+P1412	languages spoken, written or signed	[X] uses language [Y] .	language(s) that a person or a people speaks, writes or signs, including the native language(s)
+P734	family name	[X]'s last name is [Y] .	part of full name of person
+P2389	organization directed by the office or position	[X] is a head of [Y] .	organization which is directed by this office
+P81	connecting line	[X] is connected to [Y] .	railway line(s) subject is directly connected to
+P54	member of sports team	[X] is a member of [Y] team .	sports teams or clubs that the subject represents or represented
+P179	part of the series	[X] is a part of the series [Y] .	series which contains the subject
+P397	parent astronomical body	[X] is an orbit of [Y] .	major astronomical body the item belongs to
+P676	lyrics by	[Y] wrote the lyrics of [X] .	author of song lyrics
+P1889	different from	[X] is different from [Y] .	item that is different from another item, with which it may be confused
+P1365	replaces	[X] succeeds [Y] .	person, state or item replaced
+P2416	sports discipline competed in	[X] competed in a [Y] sport .	discipline an athlete competed in within a sport
+P647	drafted by	[X] was drafted by [Y] .	which team the player was drafted by
+P144	based on	[X] is based on [Y] .	the work(s) used as the basis for subject item
+P461	opposite of	[X] is opposite of [Y] .	item that is the opposite of this item
+P1589	lowest point	[X] is the lowest point of [Y] .	point with lowest elevation in the country, region, city or area
+P1552	has quality	[X] has characteristic [Y] .	the entity has an inherent or distinguishing non-material characteristic
+P366	use	[X] is used in [Y] .	main use of the subject (includes current and former usage)
+P1080	from narrative universe	[X] is featured in universe [Y] .	subject's fictional entity is in the object narrative
+P186	made from material	[X] is made from [Y] .	material the subject or the object is made of or derived from
+P47	shares border with	[Y] shares border with [X] .	countries or administrative subdivisions, of equal level, that this item borders, either by land or water
+P190	twinned administrative body	[X] and [Y] are twin cities .	twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments
+P161	cast member	[Y] is an actor in [X] .	actor in the subject production
+P376	located on astronomical body	[X] is on the planet [Y] .	astronomical body on which features or places are situated
