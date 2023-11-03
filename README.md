@@ -2,7 +2,9 @@
 
 [![Conference](https://img.shields.io/badge/ijcnlp--aacl-2023-red)]()
 [![arXiv](https://img.shields.io/badge/arxiv-2212.10708-success)](https://arxiv.org/abs/2212.10708)
+[![blog](https://img.shields.io/badge/blog-link-blue)](https://megagon.ai/zett-aacl-2023-paper-based/)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/zero-shot-triplet-extraction-by-template/zero-shot-relation-triplet-extraction-on)](https://paperswithcode.com/sota/zero-shot-relation-triplet-extraction-on?p=zero-shot-triplet-extraction-by-template)
+
 
 This repository contains the code and data for the paper [Zero-shot Triplet Extraction by Template Infilling](https://arxiv.org/abs/2212.10708), accepted in IJCNLP-AACL 2023.
 
