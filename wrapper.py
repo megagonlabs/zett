@@ -385,7 +385,8 @@ class Extractor(BaseModel):
                         head_entity, tail_entity = first, second
                     else:
                         head_entity, tail_entity = second, first
-                    new_sent = RelationSentence.from_spans(context, head=head_entity, tail=tail_entity, label=cur_label)
+                    new_sent = RelationSentence(tokens=context.split(), head=[], tail=[], raw=batch["outputs"][jj],
+                                                head_text=head_entity, tail_text=tail_entity, label=cur_label)
                     new_sent.head_text = head_entity
                     new_sent.tail_text = tail_entity
                     new_sent.raw = batch["outputs"][jj]
@@ -458,7 +459,9 @@ class Extractor(BaseModel):
             for p in pred.sents[i].triplets:
                 results_by_label[p.label]["n_pred"] += 1
                 for g in gold.sents[i].triplets:
-                    if (p.head, p.tail, p.label) == (g.head, g.tail, g.label):
+                    gold_head = " ".join([g.tokens[i] for i in g.head])
+                    gold_tail = " ".join([g.tokens[i] for i in g.tail])
+                    if (p.head_text, p.tail_text, p.label) == (gold_head, gold_tail, g.label):
                         num_correct += 1
                         results_by_label[g.label]["tp"] += 1 
                     if p.label == g.label:
